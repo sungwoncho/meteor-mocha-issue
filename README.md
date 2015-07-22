@@ -1,3 +1,4 @@
+```
 ➜  mocha-issue  meteor test-packages --velocity --driver-package velocity:console-reporter
 [[[[[ Tests ]]]]]
 
@@ -20,3 +21,4 @@ W20150722-12:03:20.348(10)? (STDERR)   errorType: 'Match.Error' }
 PASSED mocha : true => is true
 I20150722-12:03:20.489(10)? mocha: 1 tests passed (0ms)
 TESTS RAN SUCCESSFULLY
+```
